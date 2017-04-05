@@ -8,12 +8,12 @@ OPP inherited the BusinessUSA program from SBA and Commerce in summer of 2016. B
 Many BusinessUSA platforms (including the HUD app) were developed without user research. OPP would like to conduct primary user research to learn more about what challenges small businesses face to better understand what opportunities (if any) exist in this space for providing information or services to small businesses, within the USAGov mission and capabilities.
 
 ## Timeline
-**Start:** March 20, 2017
-**End:** April 28, 2017
-**Drop dead (funds expire):** May 31, 2017
-**Week 1:** Review client docs, write project brief
-**Week 2:** Kick off, start scheduling interviews
-**Week 3:** Research
-**Week 4:** Research
-**Week 5:** Synthesis
-**Week 6:** Recommendations
+- **Start:** March 20, 2017
+- **End:** April 28, 2017
+- **Drop dead (funds expire):** May 31, 2017
+- **Week 1:** Review client docs, write project brief
+- **Week 2:** Kick off, start scheduling interviews
+- **Week 3:** Research
+- **Week 4:** Research
+- **Week 5:** Synthesis
+- **Week 6:** Recommendations
