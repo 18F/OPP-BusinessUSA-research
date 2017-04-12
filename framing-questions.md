@@ -7,12 +7,12 @@ During our initial kick off, we honed in on one preliminary question that the en
 Depending on the answer to that question, we identified two different paths to go down: 
 
 ## If the answer is yes, then … 
-- ** How similar or different are the processes? **
+- **How similar or different are the processes?**
 	- How much does the model repeat itself across agencies? 
 	- How many actual small business opportunities are generated? 
 	- Data collection, voluntary? involuntary? 
 	- How do agencies differ in their processes? Why do they differ? 
-- ** What are the pain points and challenges of those processes? Are there any that all agencies and users share? ** 
+- **What are the pain points and challenges of those processes? Are there any that all agencies and users share?** 
 	- What are the pain points in HUD's journey as well as for two other agencies? 
 	- What are the pain points for agencies? For users? 
 ## If the answer is no, then … 
