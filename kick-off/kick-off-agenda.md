@@ -11,33 +11,30 @@ Come to a common understanding of …
 - What kinds of deliverables we’d like to see at the end (knowing that this might change if in the course of the project it becomes apparent that a different deliverable would be more appropriate) 
 	- Related – who will be the audience for these deliverables? Who needs to hear about the results of this work? 
 
-##Schedule overview
+## Schedule overview
 
 | Time (ET)     | Agenda Item/Topic | Goal/Objective  |
 | ------------- |-------------| -----|
-| Wednesday Afternoon 2:00 p.m. – 2:50 p.m.  | Introduction: approach, project background
- | Introduce the team, learn about why we’re doing this project, and learn about how we plan on approaching it.|
+| Wednesday Afternoon 2:00 p.m. – 2:50 p.m.  | Introduction: approach, project background | Introduce the team, learn about why we’re doing this project, and learn about how we plan on approaching it.|
 |  3:00 p.m.– 4:00 p.m.  | OPP small business strategy  |  Refine the problem statement to help guide our research efforts. Identify users impacted by these problems. |
-| Thursday Morning 10:00 a.m. - 10:50 a.m.  |  Hopes and risks workshop     |  Learn what a successful outcome of this project looks like for everyone involved.   |
+| Thursday Morning 10:00 a.m. - 10:50 a.m.  |  Hopes and risks workshop     |  Learn what a successful outcome of this project looks like for everyone involved.  |
 | 11:00 a.m. – 12:00 p.m. |  Small business landscape workshop   | Uncover what we know (and don’t know) about federal services for small businesses. |
-| Thursday 12:10 p.m. - 1:00 p.m.  | Who are our users? | Learn more about who we want to talk to and how to get in touch with them. 
- |
-|  | Lunch |  |
+| Thursday 12:10 p.m. - 1:00 p.m.  | Who are our users? | Learn more about who we want to talk to and how to get in touch with them.  |
+|  Lunch   |
 | 2:30 p.m. - 3:20 p.m.  | Research questions  workshop | Surface the most important questions that the team has and what we want to learn, which will inform the direction our research takes.  |
-| 3:30 p.m. - 4:30 p.m. | Expectations and next steps
- | Talk about what deliverables we hope to see at the end of the project, determine next steps.  |
+| 3:30 p.m. - 4:30 p.m. | Expectations and next steps | Talk about what deliverables we hope to see at the end of the project, determine next steps.  |
  
  
 ## Session details
 
 ### Introduction: intros, project background, approach and timeline
-Icebreaker: What’s the weirdest thing you’ve ever eaten?
-Who’s who, what do you do, and what is your interest in this foundation engagement?
-Shared understanding of project background and why we’re exploring this using a foundation engagement approach. 
-Does everyone know what an 18F foundation engagement is? 
-General approach and timeline
+- Icebreaker: What’s the weirdest thing you’ve ever eaten?
+- Who’s who, what do you do, and what is your interest in this foundation engagement?
+- Shared understanding of project background and why we’re exploring this using a foundation engagement approach. 
+- Does everyone know what an 18F foundation engagement is? 
+- General approach and timeline
 
-### PP and small businesses 
+### OPP and small businesses 
 
 We understand the BusinessUSA was an initiative to help make it easier for small businesses to access federal grants, contracts, and other services, and that ownership of BusinessUSA and its assets were transferred to USAGov in the summer of 2016. 
 
