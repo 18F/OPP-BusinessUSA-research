@@ -18,11 +18,11 @@ Come to a common understanding of …
 | **Wednesday Afternoon** | 
 2:00 p.m. – 2:50 p.m.  | Introduction: approach, project background | Introduce the team, learn about why we’re doing this project, and learn about how we plan on approaching it.|
 |  3:00 p.m.– 4:00 p.m.  | OPP small business strategy  |  Refine the problem statement to help guide our research efforts. Identify users impacted by these problems. |
-| Thursday Morning | 
+| **Thursday Morning** | 
 | 10:00 a.m. - 10:50 a.m.  |  Hopes and risks workshop     |  Learn what a successful outcome of this project looks like for everyone involved.  |
 | 11:00 a.m. – 12:00 p.m. |  Small business landscape workshop   | Uncover what we know (and don’t know) about federal services for small businesses. |
 |  Lunch   |
-| Thursday afternoon | 
+| **Thursday afternoon** | 
 | 2:10 p.m. - 1:00 p.m.  | Who are our users? | Learn more about who we want to talk to and how to get in touch with them.  |
 | 2:30 p.m. - 3:20 p.m.  | Research questions  workshop | Surface the most important questions that the team has and what we want to learn, which will inform the direction our research takes.  |
 | 3:30 p.m. - 4:30 p.m. | Expectations and next steps | Talk about what deliverables we hope to see at the end of the project, determine next steps.  |
