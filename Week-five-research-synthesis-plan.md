@@ -2,9 +2,9 @@
 
 ##Goals 
 
-Review what we've found so far in the research and identify any patterns. 
+Review what we've found so far in the research and identify any patterns. See if we've validated or invalidated any key assumptions.
 
-See if we've validated or invalidated any key assumptions. 
+Identify the next core assumptions we need to investigate for this project.  
 
 ## Initial framing question
 
@@ -26,5 +26,9 @@ At this point, what _else_ needs to be true for there to be an opportunity for O
 
 ## Prioritize assumptions
 
-What do we need to feel confident that our core assumptions are true? 
+3-2-1 voting on what is the most important assumption to validate. 
+
+## What do we need in order to feel confident that our core assumptions are true? 
+
+Here we identify what information we need. What evidence do we need to gather (qualitative or quantitative)? 
 
