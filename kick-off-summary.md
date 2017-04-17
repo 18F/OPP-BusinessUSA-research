@@ -19,7 +19,7 @@ We weren’t sure what to title this session, and it was less about strategy and
   - Demonstrate our value and impact
 
 ![BusinessUSA team brainstorming strategy options](img/grants-to-contracts-diagram-5.png) 
-![White board with notes from the OPP and small business strategy discussion](img/opp-and-sb-strategy-2.jpg) 
+![White board with notes from the OPP and small business strategy discussion](img/opp-and-sb-strategy-2.png) 
 
 ## Hopes and risks workshop
 
