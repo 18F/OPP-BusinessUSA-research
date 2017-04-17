@@ -1,3 +1,7 @@
+3/1/2017: The short term tl;dr is that we’re going to focus this next week on answering the question – does the grants to local orgs > prime K > sub K pattern (the second leg of this chart) repeat across three or more agencies? 
+
+![Hand drawn diagram showing how money flows from federal agencies to small businesses](img/Contract-to-grant-diagram.png) 
+
 # OPP and small business strategy
 
 We weren’t sure what to title this session, and it was less about strategy and more about learning more about what kind of role OPP envisions for itself within the small business space. We had a wide ranging discussion but here are the key points that stood out: 
@@ -14,13 +18,14 @@ We weren’t sure what to title this session, and it was less about strategy and
   - We can (and would like to) explore opportunities to partner with other agencies (develop new relationships/networks) 
   - Demonstrate our value and impact
 
-[2 pics here]
+![BusinessUSA team brainstorming strategy options](img/grants-to-contracts-diagram-5.png) 
+![White board with notes from the OPP and small business strategy discussion](img/opp-and-sb-strategy-2.png) 
 
 ## Hopes and risks workshop
 
 In this activity we asked everyone to identify their biggest hopes and risks/fears regarding this project (and scoped specifically to this particular IAA), then we voted to determine the most important ones. 
 
-[1 pic here]
+![Hopes and fears workshop](img/Hopes-and-fears-8.JPG) 
 
 ### Hopes
 
@@ -52,7 +57,7 @@ In this activity we asked everyone to identify their biggest hopes and risks/fea
 3. We should document the questions that we weren’t able to pursue but that we think future teams should investigate. 
 4. We should also clearly document the assumptions that we make over the course of our research. 
 
-[1 pic here] 
+![Stickies naming the risks and fears the team identified](img/Hopes-and-fears-risks.png) 
 
 ## Small business landscape workshop
 
