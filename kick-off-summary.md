@@ -1,6 +1,6 @@
 3/1/2017: The short term tl;dr is that we’re going to focus this next week on answering the question – does the grants to local orgs > prime K > sub K pattern (the second leg of this chart) repeat across three or more agencies? 
 
-![Hand drawn diagram showing how money flows from federal agencies to small businesses](https://github.com/18F/OPP-BusinessUSA-research/blob/working/Contract-to-grant-diagram.png) 
+![Hand drawn diagram showing how money flows from federal agencies to small businesses](img/Contract-to-grant-diagram.png) 
 
 # OPP and small business strategy
 
