@@ -1,6 +1,6 @@
 3/1/2017: The short term tl;dr is that we’re going to focus this next week on answering the question – does the grants to local orgs > prime K > sub K pattern (the second leg of this chart) repeat across three or more agencies? 
 
-![alt text](https://github.com/18F/OPP-BusinessUSA-research/blob/working/Contract-to-grant-diagram.png) 
+![Hand drawn diagram showing how money flows from federal agencies to small businesses](https://github.com/18F/OPP-BusinessUSA-research/blob/working/Contract-to-grant-diagram.png) 
 
 # OPP and small business strategy
 
@@ -18,14 +18,14 @@ We weren’t sure what to title this session, and it was less about strategy and
   - We can (and would like to) explore opportunities to partner with other agencies (develop new relationships/networks) 
   - Demonstrate our value and impact
 
-![alt text](https://github.com/18F/OPP-BusinessUSA-research/blob/working/grants-to-contracts-diagram-5.jpg) 
-![alt text](https://github.com/18F/OPP-BusinessUSA-research/blob/working/opp-and-sb-strategy-2.jpg) 
+![BusinessUSA team brainstorming strategy options](https://github.com/18F/OPP-BusinessUSA-research/blob/working/grants-to-contracts-diagram-5.jpg) 
+![White board with notes from the OPP and small business strategy discussion](https://github.com/18F/OPP-BusinessUSA-research/blob/working/opp-and-sb-strategy-2.jpg) 
 
 ## Hopes and risks workshop
 
 In this activity we asked everyone to identify their biggest hopes and risks/fears regarding this project (and scoped specifically to this particular IAA), then we voted to determine the most important ones. 
 
-![alt text](https://github.com/18F/OPP-BusinessUSA-research/blob/working/Hopes-and-fears-8.JPG) 
+![Hopes and fears workshop](https://github.com/18F/OPP-BusinessUSA-research/blob/working/Hopes-and-fears-8.JPG) 
 
 ### Hopes
 
@@ -57,7 +57,7 @@ In this activity we asked everyone to identify their biggest hopes and risks/fea
 3. We should document the questions that we weren’t able to pursue but that we think future teams should investigate. 
 4. We should also clearly document the assumptions that we make over the course of our research. 
 
-![alt text](https://github.com/18F/OPP-BusinessUSA-research/blob/working/Hopes-and-fears-risks.JPG) 
+![Stickies naming the risks and fears the team identified](https://github.com/18F/OPP-BusinessUSA-research/blob/working/Hopes-and-fears-risks.JPG) 
 
 ## Small business landscape workshop
 
