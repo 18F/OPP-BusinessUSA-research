@@ -15,6 +15,9 @@ At this point we believe the answer is yes. We believe this because …
 [collect the evidence we have that supports this]
 
 At this point, what _else_ needs to be true for there to be an opportunity for OPP in this space? 
+1. what are small businesses unhappy about? 
+2. where are agencies not doing well? What do they want to stop doing? 
+3. what is USAGov good at? 
 
 [brainstorm things]
 
