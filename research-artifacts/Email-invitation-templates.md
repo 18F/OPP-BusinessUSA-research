@@ -29,3 +29,8 @@ Thanks!
 
 Best, 
 Carolyn 
+
+## Informed consent blurb
+
+I've also attached a copy of our informed consent form which sounds scary but it's not. It outlines how we will use the information we gather as part of our research, and it gives you the option to opt out of any information gathering that you don't want to participate in. In this case, we'll most likely only take written notes from our meeting. Please let me know if you have any questions about the form and if you agree, please email me back with your assent and specify any exclusions (you don't need to worry about signing the actual PDF).
+
