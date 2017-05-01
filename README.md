@@ -18,5 +18,6 @@ Many BusinessUSA platforms (including the HUD app) were developed without user r
 - **Week 5 (4/17):** research
 - **Week 6 (4/24):** research 
 - **Week 7 (5/1):** research 
-- **Week 8 (5/8):** Synthesis (possible travel to DC)
-- **Week 9 (5/15):** Recommendations
+- **Week 8 (5/8):** research, synthesis prep
+- **Week 9 (5/15):** Synthesis (travel to DC)
+- **Week 10 (5/22):** Recommendations
