@@ -9,7 +9,7 @@ Many BusinessUSA platforms (including the HUD app) were developed without user r
 
 ## Timeline
 - **Start:** March 20, 2017
-- **End:** April 28, 2017
+- **End:** May 26, 2017
 - **Drop dead (funds expire):** May 31, 2017
 - **Week 1 (3/20):** Review client docs, write project brief
 - **Week 2 (3/27):** Kick off, start scheduling interviews
