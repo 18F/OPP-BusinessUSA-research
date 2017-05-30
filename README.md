@@ -22,7 +22,7 @@ Many BusinessUSA platforms (including the HUD app) were developed without user r
 - **Week 9 (5/15):** Synthesis (travel to DC)
 - **Week 10 (5/22):** Recommendations
 
-## Deliverable
+## Findings
 
 - [Small business discovery handout (.pdf)](https://github.com/18F/OPP-BusinessUSA-research/blob/master/Small-business-discovery-handout.pdf) 
 - [Small business discovery handout (.md)](https://github.com/18F/OPP-BusinessUSA-research/blob/master/small-business-discovery-handout.md) 
