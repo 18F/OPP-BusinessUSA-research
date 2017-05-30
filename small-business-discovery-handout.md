@@ -13,7 +13,7 @@ We also reviewed agency documentation and other resources to better understand w
 
 We posted our hypotheses, findings, and research artifacts on our public [Github repo](https://github.com/18F/OPP-BusinessUSA-research).
 
-#What we learned
+# What we learned
 
 We identified three agencies with small or disadvantaged business requirements for state and local contracts supported by federal grants:  Housing and Urban Development, the Environmental Protection Agency, and the Department of Transportation. We also learned: 
 
@@ -163,7 +163,7 @@ Even with a brief exploration of this vast and complicated space, we identified 
 
 **VOSB** – veteran-owned small business. 
 
-#Contact
+# Contact
 
 carolyn.dew@gsa.gov
 
