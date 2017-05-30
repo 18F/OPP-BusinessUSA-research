@@ -11,7 +11,7 @@ We conducted 23 interviews, each of which was about 45 minutes long — five wit
 
 We also reviewed agency documentation and other resources to better understand what programs and policies shape federal services for small businesses.  
 
-We posted our hypotheses, findings, and research artifacts on our public [Github repo].
+We posted our hypotheses, findings, and research artifacts on our public [Github repo](https://github.com/18F/OPP-BusinessUSA-research).
 
 #What we learned
 
@@ -54,7 +54,7 @@ In addition to small businesses, government requirements target other categories
 
 ## Federal grants
 
-The federal government awarded over [$650 billion in grants] to state, local, and tribal governments in 2016. Grant recipients, in turn, often use this funding to issue contracts for work they can’t complete themselves. Many state and local governments have their own small or disadvantaged business requirements for contracting. In addition, [2 CFR Part 200 §321] stipulates that when these grant recipients issue contracts, they should follow six best practices for awarding contracts to small or disadvantaged businesses.
+The federal government awarded over [$650 billion in grants](https://www.usaspending.gov/transparency/Pages/OverviewOfAwards.aspx) to state, local, and tribal governments in 2016. Grant recipients, in turn, often use this funding to issue contracts for work they can’t complete themselves. Many state and local governments have their own small or disadvantaged business requirements for contracting. In addition, [2 CFR Part 200 §321](https://www.gpo.gov/fdsys/granule/CFR-2014-title2-vol1/CFR-2014-title2-vol1-sec200-321) stipulates that when these grant recipients issue contracts, they should follow six best practices for awarding contracts to small or disadvantaged businesses.
 
 **Flow of federal grant dollars to small and disadvantaged businesses**
 
@@ -162,4 +162,16 @@ Even with a brief exploration of this vast and complicated space, we identified 
 **WOSB/WBE** – woman-owned small business or woman business enterprise. 
 
 **VOSB** – veteran-owned small business. 
+
+#Contact
+
+carolyn.dew@gsa.gov
+
+richard.l.miller@gsa.gov
+
+simchah.suveyke-bogin@gsa.gov
+
+18f.gsa.gov | usa.gov
+
+github.com/18F/OPP-BusinessUSA-research
 
