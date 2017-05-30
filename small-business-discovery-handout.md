@@ -58,7 +58,9 @@ The federal government awarded over [$650 billion in grants](https://www.usaspen
 
 **Flow of federal grant dollars to small and disadvantaged businesses**
 
-[Insert image here]
+![Flow of federal grant dollars](https://github.com/18F/OPP-BusinessUSA-research/blob/master/findings-presentation-assets/money-flow.png)
+
+In this model, a federal agency issues grant dollars to a state, local, or tribal government, or a nonprofit to deliver certain services. This money may come with specific small or disadvantaged business requirements for contracting or outreach. The local entity will issue an RFP and conduct outreach to these targeted businesses. They may layer on additional targeted business requirements. A prime contractor will win this bid – they may be a small or disadvantaged business but often they are not. If not, they will conduct additional outreach to targeted businesses to fulfill the contract requirements. When hired by the prime contractor, the subcontractors with the appropriate certifications will perform the work. 
 
 We identified three agencies with specific programs and requirements for ensuring that grant-funded contracts are awarded to small or disadvantaged businesses – Housing and Urban Development, the Department of Transportation, and the Environmental Protection Agency. 
 
