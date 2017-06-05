@@ -1,6 +1,6 @@
 # Week five research synthesis plan
 
-##Goals 
+## Goals 
 
 Review what we've found so far in the research and identify any patterns. See if we've validated or invalidated any key assumptions.
 
